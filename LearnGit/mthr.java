@@ -13,6 +13,10 @@ class mthr {
 		
 		// Now also checking if the sum is even or not.
 		
+		// This is not made for the purpose for learning java language. We are just learning github and fir that creating temporary
+		
+		// file.
+		
 		
 		if(c%2==0) {
 		
